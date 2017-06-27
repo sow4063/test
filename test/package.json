@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test doc",
+  "main": "test.js",
+  "dependencies": {
+    "node-rsa": "^0.4.2",
+    "request": "^2.81.0"
+  },
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/sow4063/test.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
